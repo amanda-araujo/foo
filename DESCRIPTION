@@ -1,0 +1,14 @@
+Package: foo
+Title: Kung Foo Fighting magic
+Version: 0.0.0.9000
+Authors@R: 
+    person("Amanda", "Araujo", , "amanda_araujo@usp.br", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The package does kung 'foo' fighting magic: calculate Shannon diversity.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
